@@ -7,7 +7,7 @@ My published Python packages on PyPI.
 | Package | Description | PyPI | GitHub | Version |
 |---|---|---|---|---|
 | [savant-extras](https://pypi.org/project/savant-extras/) | MLB Statcast bat tracking data fetcher | [PyPI](https://pypi.org/project/savant-extras/) | [GitHub](https://github.com/yasumorishima/savant-extras) | v0.1.0 |
-| [baseball-field-viz](https://pypi.org/project/baseball-field-viz/) | Matplotlib baseball field drawing and Statcast spray chart | [PyPI](https://pypi.org/project/baseball-field-viz/) | [GitHub](https://github.com/yasumorishima/baseball-field-viz) | v0.1.0 |
+| [baseball-field-viz](https://pypi.org/project/baseball-field-viz/) | Matplotlib baseball field drawing and Statcast spray chart | [PyPI](https://pypi.org/project/baseball-field-viz/) | [GitHub](https://github.com/yasumorishima/baseball-field-viz) | v0.2.0 |
 
 ## Kaggle
 
